@@ -1,5 +1,5 @@
 # Héroes
 
-1- Batman
-2- Superman
-3- Flash
+1. Batman
+2. Superman
+3. Flash
