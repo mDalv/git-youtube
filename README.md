@@ -13,3 +13,4 @@
 11. git merge rama-nueva
 12. git branch -d rama-nueva
 13. git push
+14. git commit -am "mensaje"
