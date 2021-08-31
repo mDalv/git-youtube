@@ -11,3 +11,4 @@
 9- git branch
 10- git checkout master
 11- git merge rama-nueva
+12- git branch -d rama-nueva
